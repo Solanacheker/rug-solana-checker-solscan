@@ -1,8 +1,0 @@
-{
-  "id": "test_data_7",
-  "wallet": "B5k1...sda1",
-  "tokens": [
-    { "name": "FAKE", "amount": 4110 },
-    { "name": "TEST", "amount": 7874 }
-  ]
-}
