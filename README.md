@@ -17,7 +17,8 @@ Your all-in-one Solana monitoring assistant 🚀🔎
 
 > SolanaChecker features a clean, futuristic UI with dark mode, neon highlights, and an intuitive navigation panel.
 
-![app_ui](https://github.com/user-attachments/assets/058110fe-a333-4b88-97e2-84297ba59087)
+![12025-04-10 12 26 53](https://github.com/user-attachments/assets/7cf07c6e-9bce-4d4c-ad10-15fce547c4f0)
+
 *SolanaChecker Desktop UI — Wallet Overview Tab*
 
 ---
@@ -27,13 +28,14 @@ Your all-in-one Solana monitoring assistant 🚀🔎
 ### ✅ **1. Wallet Balance Checker**  
 Instantly view SOL and token balances for any wallet address.
 
-![wallet](https://github.com/user-attachments/assets/5d225299-e5b0-4a35-bff1-62e3d154fbe0)
+![22025-04-10 12 26 59](https://github.com/user-attachments/assets/e124685b-5eb0-4e2b-8a48-2c98cd6547fa)
 
 ### 📊 **2. Token Explorer**  
 View all tokens tied to a wallet: name, symbol, amount, market value.
 
 ### 📈 **3. Address Analyzer**  
 Analyze transaction history, token flow, and wallet activity level.
+![32025-04-10 12 27 04](https://github.com/user-attachments/assets/86dd94c2-86c9-47f4-a0d1-c4cfec82dab2)
 
 ### 🔎 **4. Wallet Search & Lookup**  
 Find any wallet using address fragments or token relationships.
@@ -47,8 +49,9 @@ Compare the token to others with similar volume. See:
 - Website presence
 - Trade volume (buy/sell activity)
 - Risk level
+![42025-04-10 12 27 11](https://github.com/user-attachments/assets/2ac2cf4d-7346-454d-a4b1-bf5deca40db5)
 
-![ai_analysis](https://github.com/user-attachments/assets/a238a77f-2bd1-49bc-b5c4-86f9dd3e070f)
+
 
 ---
 
@@ -92,9 +95,8 @@ This is an actively developed project. More features, chain integrations, and la
 
 Have questions, feedback, or want to suggest a feature?
 
-📩 Email: solanachecker@protonmail.com  
-🐦 Twitter: [@SolanaChecker](https://twitter.com/SolanaChecker)  
-💬 Telegram: [t.me/solanachecker](https://t.me/solanachecker)
+📩 Email: solanachecker@protonmail.com    
+💬 Telegram: 
 
 ---
 
