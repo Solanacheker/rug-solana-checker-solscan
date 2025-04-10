@@ -77,11 +77,6 @@ To enable Telegram alerts, enter your bot token and chat ID inside the file:
 
 📁 Located in the root folder of the program.
 
----
-
-## 🔐 Security & Privacy
-
-SolanaChecker runs locally on your machine. We do **not** store your wallet data or private information. Your security is our priority.
 
 ---
 
