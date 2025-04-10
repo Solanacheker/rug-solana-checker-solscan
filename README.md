@@ -1,45 +1,102 @@
-# Solana Token Scan + Rug Pull Checker 🔎📈
-SolanaChecker is a multifunctional tool designed for interacting with the Solana blockchain and managing crypto wallets more easily. It allows users to quickly access information about balances, addresses, and tokens, as well as analyze and search for wallets.
+# 🧠 SolanaChecker — Solana Token Scanner + Rug Pull & AI Analysis Tool  
+Your all-in-one Solana monitoring assistant 🚀🔎
 
-In addition, SolanaChecker features a rug pull checker, helping users identify potentially fraudulent projects and suspicious tokens, reducing the risk of scams for investors.
-![sappcymal1](https://github.com/user-attachments/assets/058110fe-a333-4b88-97e2-84297ba59087)
+**SolanaChecker** is a next-generation desktop tool designed for in-depth interaction with the Solana blockchain. It helps users explore wallet data, track token movements, detect scams, and soon — even trade directly from the app.
 
-# Program Features of SolanaChecker:
- 1. Wallet Balance Checker
-Instantly view the SOL and token balances of any wallet address on the Solana network.
-![22](https://github.com/user-attachments/assets/5d225299-e5b0-4a35-bff1-62e3d154fbe0)
- 2. Token Explorer
-Get detailed information about all tokens associated with a wallet, including name, symbol, amount, and current value.
- 3. Address Analyzer
-Analyze any Solana wallet to view transaction history, activity level, and token movements.
- 4. Wallet Search & Lookup
-Easily search for wallets using partial addresses or known token interactions.
- 5. Rug Pull Checker
-Detect potentially fraudulent or high-risk tokens and projects by analyzing token metadata, ownership, liquidity, and trading patterns.
- 6. User-Friendly Interface
-Clean and simple UI for both beginners and experienced users to interact seamlessly with the Solana blockchain.
- 7. Real-Time Data
-All information is pulled live from the blockchain, ensuring up-to-date insights.
- 8. Security-Oriented
-Designed with privacy and safety in mind – no sensitive data is stored or shared.
-![22](https://github.com/user-attachments/assets/a238a77f-2bd1-49bc-b5c4-86f9dd3e070f)
+> ✅ Simple. ⚡ Fast. 🧠 Smart.
 
-# Download 
+---
+
+## 📲 Download Now
 
 [![Download](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=cloud-download)](https://example.com/your-file.zip)
 
-🚀 Currently, #SolanaChecker is in its early version and does not yet include the full range of planned features. However, active development is underway, and several powerful tools are coming soon.
+---
 
-Upcoming features include:
- • Twitter Score Integration
-A system to evaluate projects and wallets based on their social media presence and activity, helping users gauge community trust and engagement.
- • AI-Powered Analysis
-Advanced AI algorithms will be used to detect unusual patterns, predict risks, and provide deeper insights into token behavior and wallet activity.
+## 🖼 Interface Preview
 
-These enhancements aim to make SolanaChecker not just a tool for monitoring, but a smart assistant for navigating the Solana ecosystem safely and effectively.
+> SolanaChecker features a clean, futuristic UI with dark mode, neon highlights, and an intuitive navigation panel.
 
-Let me know if you want this adapted for a product description, pitch deck, or website section!
+![app_ui](https://github.com/user-attachments/assets/058110fe-a333-4b88-97e2-84297ba59087)
+*SolanaChecker Desktop UI — Wallet Overview Tab*
 
+---
 
-# Setting for Telegram
-To receive notifications in Telegram, write down your bot token and your chat_id in the 'telegram-settings.txt' file, which is located in the program folder.
+## 🔧 Features
+
+### ✅ **1. Wallet Balance Checker**  
+Instantly view SOL and token balances for any wallet address.
+
+![wallet](https://github.com/user-attachments/assets/5d225299-e5b0-4a35-bff1-62e3d154fbe0)
+
+### 📊 **2. Token Explorer**  
+View all tokens tied to a wallet: name, symbol, amount, market value.
+
+### 📈 **3. Address Analyzer**  
+Analyze transaction history, token flow, and wallet activity level.
+
+### 🔎 **4. Wallet Search & Lookup**  
+Find any wallet using address fragments or token relationships.
+
+### 🚨 **5. Rug Pull Checker**  
+Identify suspicious tokens by checking metadata, LP status, ownership, and launch behavior.
+
+### 🤖 **6. AI Analysis**  
+Compare the token to others with similar volume. See:
+- Twitter score
+- Website presence
+- Trade volume (buy/sell activity)
+- Risk level
+
+![ai_analysis](https://github.com/user-attachments/assets/a238a77f-2bd1-49bc-b5c4-86f9dd3e070f)
+
+---
+
+## 🛠 Upcoming Features (Rolling out in the next few weeks!)
+
+🔥 **Wallet Sniping Tool** — Catch new token launches instantly  
+🔁 **Live Buy/Sell Tracking** — Monitor trades for any wallet  
+📩 **Telegram Notifications** — Stay informed in real time  
+📈 **In-App Trading** — Buy/sell tokens directly inside the tool  
+
+---
+
+## 💸 Pricing
+
+🧪 **Free for the first 14 days** — test all features with no limitations.  
+💼 **After that: $30/month** — includes future updates, trading tools, and full AI access.
+
+---
+
+## 📥 Telegram Integration
+
+To enable Telegram alerts, enter your bot token and chat ID inside the file:
+
+📁 Located in the root folder of the program.
+
+---
+
+## 🔐 Security & Privacy
+
+SolanaChecker runs locally on your machine. We do **not** store your wallet data or private information. Your security is our priority.
+
+---
+
+## 📌 Stay Updated
+
+This is an actively developed project. More features, chain integrations, and language options are coming soon. Star ⭐ the repo and follow along!
+
+---
+
+## 💬 Contact & Support
+
+Have questions, feedback, or want to suggest a feature?
+
+📩 Email: solanachecker@protonmail.com  
+🐦 Twitter: [@SolanaChecker](https://twitter.com/SolanaChecker)  
+💬 Telegram: [t.me/solanachecker](https://t.me/solanachecker)
+
+---
+
+### Built for Solana enthusiasts, traders, and researchers 🧪  
+Let SolanaChecker do the hard work — so you can focus on the next big thing.
