@@ -97,3 +97,5 @@ Have questions, feedback, or want to suggest a feature?
 
 ### Built for Solana enthusiasts, traders, and researchers 🧪  
 Let SolanaChecker do the hard work — so you can focus on the next big thing.
+
+https://github.com/Solanacheker/rug-solana-checker-solscan
