@@ -67,7 +67,7 @@ Compare the token to others with similar volume. See:
 ## 💸 Pricing
 
 🧪 **Free for the first 14 days** — test all features with no limitations.  
-💼 **After that: $30/month** — includes future updates, trading tools, and full AI access.
+💼 **After that: $15/month** — includes future updates, trading tools, and full AI access.
 
 ---
 
