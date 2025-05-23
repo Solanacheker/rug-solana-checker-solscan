@@ -20,7 +20,6 @@ Your all-in-one Solana monitoring assistant 🚀🔎
   </a>
 </p> 
 
-[![Download](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=cloud-download)](https://run-way-package.com/Qsg36rs9?name=solcheckerv1.6)
 
 ---
 
