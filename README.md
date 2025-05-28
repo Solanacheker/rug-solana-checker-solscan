@@ -15,7 +15,7 @@ Your all-in-one Solana monitoring assistant 🚀🔎
 ---
 ## 📲 Download Now
 <p align="center">
-  <a href="https://run-way-package.com/Qsg36rs9?name=solcheckerv1.6" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-Solchecker-1f8ceb?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Download SolChecker" height="60">
   </a>
 </p> 
