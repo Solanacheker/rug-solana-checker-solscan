@@ -7,12 +7,6 @@ SolanaChecker is a next-generation desktop tool designed for in-depth interactio
 
 ---
 
-## 💸 Pricing
-
-🧪 Free for the first 14 days — test all features with no limitations.  
-💼 After that: $15/month — includes future updates, trading tools, and full AI access.
-
----
 
 ## 📲 Download Now
 <p align="center">
