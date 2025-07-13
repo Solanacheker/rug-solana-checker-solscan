@@ -9,11 +9,6 @@ SolanaChecker is a next-generation desktop tool designed for in-depth interactio
 
 
 ## 📲 Download Now
-<p align="center">
-  <a href="https://solanacheker.com/rug-solana-checker-solscan/tree/d3e1a1e7aba875753a3ebe385a63b955043aa21e/solcheker.exe" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-Solchecker-1f8ceb?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Download SolChecker" height="60">
-  </a>
-</p> 
 
 ---
 
